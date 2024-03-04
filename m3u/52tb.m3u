@@ -1,0 +1,206 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://159.75.166.157/CCTV/CCTV1.png" group-title="央视(线路1)",CCTV1
+http://gd.52tb.xyz:88/php/tt4.php?id=1
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://159.75.166.157/CCTV/CCTV2.png" group-title="央视(线路1)",CCTV2
+http://gd.52tb.xyz:88/php/tt4.php?id=2
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://159.75.166.157/CCTV/CCTV3.png" group-title="央视(线路1)",CCTV3
+http://gd.52tb.xyz:88/php/tt4.php?id=3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://159.75.166.157/CCTV/CCTV4.png" group-title="央视(线路1)",CCTV4
+http://gd.52tb.xyz:88/php/tt4.php?id=4
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://159.75.166.157/CCTV/CCTV5.png" group-title="央视(线路1)",CCTV5
+http://gd.52tb.xyz:88/php/tt4.php?id=5
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://159.75.166.157/CCTV/CCTV55.png" group-title="央视(线路1)",CCTV5+
+http://gd.52tb.xyz:88/php/tt4.php?id=5p
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://159.75.166.157/CCTV/CCTV6.png" group-title="央视(线路1)",CCTV6
+http://gd.52tb.xyz:88/php/tt4.php?id=6
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://159.75.166.157/CCTV/CCTV7.png" group-title="央视(线路1)",CCTV7
+http://gd.52tb.xyz:88/php/tt4.php?id=7
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://159.75.166.157/CCTV/CCTV8.png" group-title="央视(线路1)",CCTV8
+http://gd.52tb.xyz:88/php/tt4.php?id=8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://159.75.166.157/CCTV/CCTV9.png" group-title="央视(线路1)",CCTV9
+http://gd.52tb.xyz:88/php/tt4.php?id=9
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://159.75.166.157/CCTV/CCTV10.png" group-title="央视(线路1)",CCTV10
+http://gd.52tb.xyz:88/php/tt4.php?id=10
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://159.75.166.157/CCTV/CCTV11.png" group-title="央视(线路1)",CCTV11
+http://gd.52tb.xyz:88/php/tt4.php?id=11
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://159.75.166.157/CCTV/CCTV12.png" group-title="央视(线路1)",CCTV12
+http://gd.52tb.xyz:88/php/tt4.php?id=12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://159.75.166.157/CCTV/CCTV13.png" group-title="央视(线路1)",CCTV13
+http://gd.52tb.xyz:88/php/tt4.php?id=13
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://159.75.166.157/CCTV/CCTV14.png" group-title="央视(线路1)",CCTV14
+http://gd.52tb.xyz:88/php/tt4.php?id=14
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://159.75.166.157/CCTV/CCTV15.png" group-title="央视(线路1)",CCTV15
+http://gd.52tb.xyz:88/php/tt4.php?id=15
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://159.75.166.157/CCTV/CCTV16.png" group-title="央视(线路1)",CCTV16
+http://gd.52tb.xyz:88/php/tt4.php?id=16
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://159.75.166.157/CCTV/CCTV17.png" group-title="央视(线路1)",CCTV17
+http://gd.52tb.xyz:88/php/tt4.php?id=18
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="http://159.75.166.157/CCTV/CCTVfengyunzuqiu.png" group-title="央视(线路1)",风云足球
+http://gd.52tb.xyz:88/php/tt4.php?id=18
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://159.75.166.157/ws/hunan.png" group-title="卫视(线路1)",湖南卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=20
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://159.75.166.157/ws/zhejiang.png" group-title="卫视(线路1)",浙江卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=21
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://159.75.166.157/ws/jiangsu.png" group-title="卫视(线路1)",江苏卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=22
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://159.75.166.157/ws/dongfang.png" group-title="卫视(线路1)",东方卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=23
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://159.75.166.157/ws/beijing.png" group-title="卫视(线路1)",北京卫视
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://159.75.166.157/ws/tianjin.png" group-title="卫视(线路1)",天津卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=25
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://159.75.166.157/ws/guangdong.png" group-title="卫视(线路1)",广东卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=26
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://159.75.166.157/ws/shenzhen.png" group-title="卫视(线路1)",深圳卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=27
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://159.75.166.157/ws/dongnan.png" group-title="卫视(线路1)",东南卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=28
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://159.75.166.157/ws/shandong.png" group-title="卫视(线路1)",山东卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=29
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://159.75.166.157/ws/henan.png" group-title="卫视(线路1)",河南卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=30
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://159.75.166.157/ws/hebei.png" group-title="卫视(线路1)",河北卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=31
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://159.75.166.157/ws/anhui.png" group-title="卫视(线路1)",安徽卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=32
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://159.75.166.157/ws/hubei.png" group-title="卫视(线路1)",湖北卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=33
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://159.75.166.157/ws/jiangxi.png" group-title="卫视(线路1)",江西卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=34
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://159.75.166.157/ws/guizhou.png" group-title="卫视(线路1)",贵州卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=35
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://159.75.166.157/ws/chongqing.png" group-title="卫视(线路1)",重庆卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=36
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://159.75.166.157/ws/lvyou.png" group-title="卫视(线路1)",海南卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=37
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://159.75.166.157/ws/sichuan.png" group-title="卫视(线路1)",四川卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=38
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://159.75.166.157/ws/jilin.png" group-title="卫视(线路1)",吉林卫视
+https://hls1.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://159.75.166.157/ws/heilongjiang.png" group-title="卫视(线路1)",黑龙江卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=40
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://159.75.166.157/ws/yunnan.png" group-title="卫视(线路1)",云南卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=41
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://159.75.166.157/ws/liaoning.png" group-title="卫视(线路1)",辽宁卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=42
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://159.75.166.157/ws/neimeng.png" group-title="卫视(线路1)",内蒙古卫视
+https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://159.75.166.157/ws/guangxi.png" group-title="卫视(线路1)",广西卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=43
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://159.75.166.157/ws/gansu.png" group-title="卫视(线路1)",甘肃卫视
+http://cyz31.livehbindex.hbcatv.cn/live/500000206da44fde810a98a3d7848f82.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://159.75.166.157/ws/shanxi.png" group-title="卫视(线路1)",陕西卫视
+http://gd.52tb.xyz:88/php/tt4.php?id=45
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://159.75.166.157/ws/shanxi_.png" group-title="卫视(线路1)",山西卫视
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8?
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://159.75.166.157/ws/ningxia.png" group-title="卫视(线路1)",宁夏卫视
+http://cyz31.livehbindex.hbcatv.cn/live/500000205dfa4e06bf7243e30e5182c8.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://159.75.166.157/ws/qinghai.png" group-title="卫视(线路1)",青海卫视
+http://cyz31.livehbindex.hbcatv.cn/live/50000020abdd46bb8007f3d793b418f2.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://159.75.166.157/ws/xinjiang.png" group-title="卫视(线路1)",新疆卫视
+http://cyz31.livehbindex.hbcatv.cn/live/500000201e484cbeb064a31201e3dd05.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://159.75.166.157/ws/xizang.png" group-title="卫视(线路1)",西藏卫视
+http://cyz31.livehbindex.hbcatv.cn/live/50000020816449349b10593cfdde8311.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://159.75.166.157/CCTV/CCTV1.png" group-title="央视(线路2)",CCTV1
+http://gd.52tb.xyz:88/php/tt.php?id=1
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://159.75.166.157/CCTV/CCTV2.png" group-title="央视(线路2)",CCTV2
+http://gd.52tb.xyz:88/php/tt.php?id=2
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://159.75.166.157/CCTV/CCTV3.png" group-title="央视(线路2)",CCTV3
+http://gd.52tb.xyz:88/php/tt.php?id=3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://159.75.166.157/CCTV/CCTV4.png" group-title="央视(线路2)",CCTV4
+http://gd.52tb.xyz:88/php/tt.php?id=4
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://159.75.166.157/CCTV/CCTV5.png" group-title="央视(线路2)",CCTV5
+http://gd.52tb.xyz:88/php/tt.php?id=5
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://159.75.166.157/CCTV/CCTV55.png" group-title="央视(线路2)",CCTV5+
+http://gd.52tb.xyz:88/php/tt.php?id=5p
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://159.75.166.157/CCTV/CCTV6.png" group-title="央视(线路2)",CCTV6
+http://gd.52tb.xyz:88/php/tt.php?id=6
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://159.75.166.157/CCTV/CCTV7.png" group-title="央视(线路2)",CCTV7
+http://gd.52tb.xyz:88/php/tt.php?id=7
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://159.75.166.157/CCTV/CCTV8.png" group-title="央视(线路2)",CCTV8
+http://gd.52tb.xyz:88/php/tt.php?id=8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://159.75.166.157/CCTV/CCTV9.png" group-title="央视(线路2)",CCTV9
+http://gd.52tb.xyz:88/php/tt.php?id=9
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://159.75.166.157/CCTV/CCTV10.png" group-title="央视(线路2)",CCTV10
+http://gd.52tb.xyz:88/php/tt.php?id=10
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://159.75.166.157/CCTV/CCTV11.png" group-title="央视(线路2)",CCTV11
+http://gd.52tb.xyz:88/php/tt.php?id=11
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://159.75.166.157/CCTV/CCTV12.png" group-title="央视(线路2)",CCTV12
+http://gd.52tb.xyz:88/php/tt.php?id=12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://159.75.166.157/CCTV/CCTV13.png" group-title="央视(线路2)",CCTV13
+http://gd.52tb.xyz:88/php/tt.php?id=13
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://159.75.166.157/CCTV/CCTV14.png" group-title="央视(线路2)",CCTV14
+http://gd.52tb.xyz:88/php/tt.php?id=14
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://159.75.166.157/CCTV/CCTV15.png" group-title="央视(线路2)",CCTV15
+http://gd.52tb.xyz:88/php/tt.php?id=15
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://159.75.166.157/CCTV/CCTV16.png" group-title="央视(线路2)",CCTV16
+http://gd.52tb.xyz:88/php/tt.php?id=16
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://159.75.166.157/CCTV/CCTV17.png" group-title="央视(线路2)",CCTV17
+http://gd.52tb.xyz:88/php/tt.php?id=18
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="http://159.75.166.157/CCTV/CCTVfengyunzuqiu.png" group-title="央视(线路2)",风云足球
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://159.75.166.157/ws/hunan.png" group-title="卫视(线路2)",湖南卫视
+http://gd.52tb.xyz:88/php/tt.php?id=20
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://159.75.166.157/ws/zhejiang.png" group-title="卫视(线路2)",浙江卫视
+http://gd.52tb.xyz:88/php/tt.php?id=21
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://159.75.166.157/ws/jiangsu.png" group-title="卫视(线路2)",江苏卫视
+http://gd.52tb.xyz:88/php/tt.php?id=22
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://159.75.166.157/ws/dongfang.png" group-title="卫视(线路2)",东方卫视
+http://gd.52tb.xyz:88/php/tt.php?id=23
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://159.75.166.157/ws/beijing.png" group-title="卫视(线路2)",北京卫视
+http://gd.52tb.xyz:88/php/tt.php?id=24
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://159.75.166.157/ws/tianjin.png" group-title="卫视(线路2)",天津卫视
+http://gd.52tb.xyz:88/php/tt.php?id=25
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://159.75.166.157/ws/guangdong.png" group-title="卫视(线路2)",广东卫视
+http://gd.52tb.xyz:88/php/tt.php?id=26
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://159.75.166.157/ws/shenzhen.png" group-title="卫视(线路2)",深圳卫视
+http://gd.52tb.xyz:88/php/tt.php?id=27
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://159.75.166.157/ws/dongnan.png" group-title="卫视(线路2)",东南卫视
+http://gd.52tb.xyz:88/php/tt.php?id=28
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://159.75.166.157/ws/shandong.png" group-title="卫视(线路2)",山东卫视
+http://gd.52tb.xyz:88/php/tt.php?id=29
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://159.75.166.157/ws/henan.png" group-title="卫视(线路2)",河南卫视
+http://gd.52tb.xyz:88/php/tt.php?id=30
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://159.75.166.157/ws/hebei.png" group-title="卫视(线路2)",河北卫视
+http://gd.52tb.xyz:88/php/tt.php?id=31
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://159.75.166.157/ws/anhui.png" group-title="卫视(线路2)",安徽卫视
+http://159.75.166.157/php/ah.php?id=ahws
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://159.75.166.157/ws/hubei.png" group-title="卫视(线路2)",湖北卫视
+http://gd.52tb.xyz:88/php/tt.php?id=33
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://159.75.166.157/ws/jiangxi.png" group-title="卫视(线路2)",江西卫视
+http://gd.52tb.xyz:88/php/tt.php?id=34
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://159.75.166.157/ws/guizhou.png" group-title="卫视(线路2)",贵州卫视
+http://gd.52tb.xyz:88/php/tt.php?id=35
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://159.75.166.157/ws/chongqing.png" group-title="卫视(线路2)",重庆卫视
+http://gd.52tb.xyz:88/php/tt.php?id=36
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://159.75.166.157/ws/lvyou.png" group-title="卫视(线路2)",海南卫视
+http://gd.52tb.xyz:88/php/tt.php?id=37
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://159.75.166.157/ws/sichuan.png" group-title="卫视(线路2)",四川卫视
+http://gd.52tb.xyz:88/php/tt.php?id=38
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://159.75.166.157/ws/jilin.png" group-title="卫视(线路2)",吉林卫视
+http://gd.52tb.xyz:88/php/tt.php?id=39
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://159.75.166.157/ws/heilongjiang.png" group-title="卫视(线路2)",黑龙江卫视
+http://gd.52tb.xyz:88/php/tt.php?id=40
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://159.75.166.157/ws/yunnan.png" group-title="卫视(线路2)",云南卫视
+http://gd.52tb.xyz:88/php/tt.php?id=41
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://159.75.166.157/ws/liaoning.png" group-title="卫视(线路2)",辽宁卫视
+http://gd.52tb.xyz:88/php/tt.php?id=42
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://159.75.166.157/ws/neimeng.png" group-title="卫视(线路2)",内蒙古卫视
+https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://159.75.166.157/ws/guangxi.png" group-title="卫视(线路2)",广西卫视
+http://gd.52tb.xyz:88/php/tt.php?id=43
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://159.75.166.157/ws/gansu.png" group-title="卫视(线路2)",甘肃卫视
+http://gd.52tb.xyz:88/php/tt.php?id=44
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://159.75.166.157/ws/shanxi.png" group-title="卫视(线路2)",陕西卫视
+http://gd.52tb.xyz:88/php/tt.php?id=45
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://159.75.166.157/ws/shanxi_.png" group-title="卫视(线路2)",山西卫视
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225763/1.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://159.75.166.157/ws/ningxia.png" group-title="卫视(线路2)",宁夏卫视
+http://cyz31.livehbindex.hbcatv.cn/live/500000205dfa4e06bf7243e30e5182c8.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://159.75.166.157/ws/qinghai.png" group-title="卫视(线路2)",青海卫视
+http://cyz31.livehbindex.hbcatv.cn/live/50000020abdd46bb8007f3d793b418f2.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://159.75.166.157/ws/xinjiang.png" group-title="卫视(线路2)",新疆卫视
+http://cyz31.livehbindex.hbcatv.cn/live/500000201e484cbeb064a31201e3dd05.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://159.75.166.157/ws/xizang.png" group-title="卫视(线路2)",西藏卫视
+http://cyz31.livehbindex.hbcatv.cn/live/50000020816449349b10593cfdde8311.m3u8?bitrate=2300&pt=5
